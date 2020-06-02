@@ -1,6 +1,6 @@
-//This code is edited by Sachin Soni(techiesms) for a project tutorital on
-//Controlling Appliances and monitoring sensor's data over Internet using Ubidots MQTT server
-//The video is uploaded on youtube whose link is :- https://youtu.be/LvzCeBce2mU
+/*
+This project created by Amitave Rakhit
+*/
 
 /****************************************
    Include Libraries
